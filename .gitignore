@@ -311,3 +311,6 @@ cypress/videos
 cypress/screenshots
 .vscode/settings.json
 .qodo
+
+# Local dependency source checkouts managed by opensrc.
+/opensrc/
