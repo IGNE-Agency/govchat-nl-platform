@@ -1,3 +1,4 @@
+# Disabled while this repository is maintained as a downstream clone.
 name: Release
 
 on:
